@@ -97,5 +97,5 @@ Visualizes 2017–2020 trends, revealing peak revenue periods during early 2018 
 🎯 Decision Impact: Helps management allocate resources, optimize customer strategies, and forecast future growth
 
 6️⃣ Screenshots / Demos
-
+https://github.com/Mcode19/TechNova_Analytics_SQL_PowerBi/blob/main/Snapshot_of_Dashboard.png
  
